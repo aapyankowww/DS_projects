@@ -1,6 +1,3 @@
-<h1 align="center"> Проекты по машинному обучению <h1> 
-<h2 align="center">Пьянков Арсений, выпускник СПбПУ ФизМех</h2>
-
 
 <html lang="ru">
 <head>
@@ -12,7 +9,6 @@
 </head>
 <body>
     <header>
-       <h1 align="center"> Проекты по машинному обучению <h1> 
     </header>
     <section>
         <p>
