@@ -4,13 +4,15 @@
 
 <html lang="ru">
 <head>
+    <h1 align="center"> Проекты по машинному обучению <h1> 
+    <h2 align="center">Пьянков Арсений, выпускник СПбПУ ФизМех</h2>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Описание репозитория</title>
+
 </head>
 <body>
     <header>
-        <h1>Проекты по машинному обучению</h1>
+       <h1 align="center"> Проекты по машинному обучению <h1> 
     </header>
     <section>
         <p>
